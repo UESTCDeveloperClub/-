@@ -54,14 +54,16 @@
  - ps：小伙伴们也可以自己搭建符合自己编程习惯的环境。
 
 
-##开源社区git路径
+##开源社区各仓库git路径
 https://github.com/UESTCDeveloperClub/Welcome_WeAreFamily.git
 https://github.com/UESTCDeveloperClub/GroupTips.git
 https://github.com/UESTCDeveloperClub/thinkphp.git
 ## 文件提交规范：
-  - 文件类型_文件名
-eg：学习教程_bootstrap应用于UESTCclub.ppt
-       设计素材_团队贡献者图片.psd
+  - 文件类型-文件名
+  
+eg：
+       "学习教程-bootstrap应用.ppt" / "
+设计素材-团队贡献者图片.psd"
        
 
  
